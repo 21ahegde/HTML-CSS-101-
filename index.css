@@ -1,0 +1,32 @@
+#title {
+    padding: 25px; 
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#maincontent {
+    font-size: 20px;
+    text-align: auto;
+    padding: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#bottomtext {
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+}
+
+#page {
+    border: solid black;
+    border-width: 10px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
